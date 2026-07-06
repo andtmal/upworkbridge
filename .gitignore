@@ -1,0 +1,19 @@
+# Dependencies
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Credentials — config.py contains real API keys
+config.py
+
+# Token storage
+.upworkbridge_token.json
+
+# Generated proposals
+.upwork_proposals/
+
+# OS files
+.DS_Store
+Thumbs.db
